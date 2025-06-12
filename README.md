@@ -9,7 +9,6 @@ Un assistant météo sophistiqué qui utilise l'API Ollama avec le modèle Llama
 - [Structure du Projet](#structure-du-projet)
 - [Outils Intégrés](#outils-intégrés)
 - [Gestion des Erreurs](#gestion-des-erreurs)
-- [Tests](#tests)
 - [Exemples d'Utilisation](#exemples-dutilisation)
 - [Architecture et Conception](#architecture-et-conception)
 
@@ -122,19 +121,6 @@ L'assistant implémente une gestion robuste des erreurs pour :
 
 Chaque erreur est gérée avec des messages appropriés et des suggestions de récupération.
 
-## Tests
-
-Pour exécuter les tests :
-```bash
-python -m pytest tests/
-```
-
-Les tests couvrent :
-- Validation des entrées
-- Gestion des erreurs
-- Fonctionnalités des outils
-- Intégration avec Ollama
-- Cas limites et scénarios d'erreur
 
 ## Exemples d'Utilisation
 
