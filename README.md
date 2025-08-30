@@ -23,8 +23,8 @@ Un assistant météo sophistiqué qui utilise l'API Ollama avec le modèle Llama
 
 1. Clonez ce dépôt :
 ```bash
-git clone [URL_DE_VOTRE_REPO]
-cd [NOM_DU_DOSSIER]
+git clone https://github.com/marourix/Weather-Agent.git
+cd Weather-Agent
 ```
 
 2. Créez un environnement virtuel :
